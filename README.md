@@ -15,13 +15,13 @@ This repository contains hardware design files and datasheets for the Line Senso
 To view/modify the files from this repository, install KiCAD from: [https://kicad.org](https://kicad.org)
 
 ## Layout
-![](assets/layout.png)
+![](Assets/Routing.png)
 
 ## Plots
 ### Front side
-![](assets/front.png)
+![](Assets/front_side.png))
 
 ### Back side
-![](assets/back.png)
+![](Assets/back_side.png)
 ### Mentor
 * Special thanks to [Dhairya Shah](https://github.com/dhairyashah1)
