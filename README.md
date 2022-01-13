@@ -23,5 +23,5 @@ To view/modify the files from this repository, install KiCAD from: [https://kica
 
 ### Back side
 ![](assets/back.png)
-#### Mentor
+### Mentor
 * Special thanks to [Dhairya Shah](https://github.com/dhairyashah1)
